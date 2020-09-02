@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip3257339101.out.azhimalayanvh.com/Firmware/Flyme/m6_note/8.0.5.0/cn/20200709154303/b68e83cd/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=55bced560249bb243308cf28a16d51626e728f3c19207214&ali_redirect_ex_tmining_ts=1599033403&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m6_note/8.0.5.0/cn/20200709154303/b68e83cd/update.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
